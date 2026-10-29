@@ -33,8 +33,8 @@ async function setup() {
   //myImage = await loadImage("https://i.imgur.com/k1JGyBn.png");
   //myImage = await loadImage("https://i.imgur.com/Os5994w.png");
   //myImage = await loadImage("https://i.imgur.com/WUPrZKK.png");
-  myImage = await loadImage("https://i.imgur.com/SRbvCmm.png");
-  //myImage = await loadImage("./images/Earth.png");
+  //myImage = await loadImage("https://i.imgur.com/SRbvCmm.png");
+  myImage = await loadImage("./images/Earth.png");
   
   
   //noLoop();
